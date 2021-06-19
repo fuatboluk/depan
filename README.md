@@ -1,10 +1,9 @@
-
 Türkiye için deprem bilgilerini terminal üzerinden çıktılayan basit bir program. Curl ile çalışır ve internete bağlı olmayı gerektirir.
 
 
 Bağımlılıkları:
 
-libcurl
+* libcurl
 
 
 Derleme için klonladığınız proje dizinine geçin.
