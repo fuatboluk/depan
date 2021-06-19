@@ -28,12 +28,15 @@ Ayrıca terminal üzerinde, head, tail ve grep kullanarak çıktıyı biçimlend
 Örnekler:
 
 * ilk 10 satırı bas
+
 depan | head -n 10
 
 * son 10 satırı bas
+
 depan | tail -n 10
 
 * içinde ISTANBUL geçen satırları bas
+
 depan | grep ISTANBUL
 
 
