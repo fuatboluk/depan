@@ -10,7 +10,7 @@ Derleme için klonladığınız proje dizinine geçin.
 
 Derleme:
 
-gcc -o depan depan.c -libcurl
+gcc -o depan depan.c -lcurl
 
 
 Oluşan depan adlı programı /usr/bin dizini içerisine taşıyın. Bulunduğunuz dizinde çalıştırmak için:
